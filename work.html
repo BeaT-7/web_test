@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Women's World - Work</title>
+    <link rel="stylesheet" type="text/css" href="StyleSheet.css">
+    <script src="script.js"></script>
+</head>
+
+<header>
+    <div class="headerNav">
+        <div class="headerNav-Logo">
+            <img src="./images/Logo_main2.png" id="logoImg" alt="Unable to load logo">
+        </div>
+        <nav class="headerNav-Tabs">
+            <ul class="tab-list" id="navbarMenu">
+                <li class="tab"><a href="index.html" class="tab-link ">NEWS</a></li>
+                <li class="tab"><a href="fashion.html" class="tab-link ">FASHION</a></li>
+                <li class="tab"><a href="lifestyle.html" class="tab-link">LIFESTYLE</a></li>
+                <li class="tab"><a href="parenting.html" class="tab-link">PARENTING</a></li>
+                <li class="tab"><a href="videos.html" class="tab-link">INTERVIEWS</a></li>
+                <li class="tab"><a href="work.html" class="tab-link active">WORK</a></li>
+            </ul>
+            <div class="navbar-toggle">
+                <a href="javascript:void(0);" onclick="toggleMenu()">&#9776;</a>
+            </div>
+        </nav>
+    </div>
+
+    <script>
+        function toggleMenu() {
+            var menu = document.getElementById("navbarMenu");
+            menu.style.display = (menu.style.display === "block") ? "none" : "block";
+        }
+    </script>
+</header>
+
+<body>
+    <div class="container"> <!-- main div -->
+        <div class="workFilterBox">
+            <Div>
+                <h3>Region: </h3>
+                <label for="regionFilter"></label> 
+                <select name="Region" id="regionFilter"> 
+                    <option value="1">All</option> 
+                    <option value="Riga">Riga</option> 
+                    <option value="Valmiera">Valmiera</option> 
+                    <option value="Liepaja">Liepaja</option> 
+                    <option value="Rezekne">Rezekne</option> 
+                    <option value="Ventspils">Ventspils</option> 
+                </select>
+            </Div>
+            <div>
+                <h3>Remote: </h3>
+                <input type="checkbox" id="remoteFilter" value="false">
+                <label for="remoteFilter">Remote</label>
+            </div>
+            <div>
+                <h3>Full time: </h3>
+                <input type="checkbox" id="fulltimeFilter" value="false">
+                <label for="fulltimeFilter">Full Time</label>
+            </div>
+            <button class="filterButton" role="button" onclick="getFilteredWorkList(document.getElementById('regionFilter').value, 
+                document.getElementById('remoteFilter').checked, 
+                document.getElementById('fulltimeFilter').checked)">
+                Filter</button>
+        </div>
+
+        <hr>
+
+        <div id="workList">
+            <script>
+                // Call the function on load with all categories
+                getFilteredWorkList(document.getElementById('regionFilter').value, document.getElementById('remoteFilter').checked, document.getElementById('fulltimeFilter').checked);
+        
+        
+            </script>
+        </div>
+    </div>
+
+    
+</body>
+</html>

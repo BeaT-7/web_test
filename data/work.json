@@ -1,0 +1,143 @@
+[
+    {
+        "id":"14",
+        "title":"Babysitter",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"01.dec, 2023",
+        "pay":"800-1200",
+        "content":"Job Description: We are looking for a caring and responsible babysitter to provide childcare for our family. As a babysitter, you will play a crucial role in ensuring the well-being and safety of our children while we are away."
+    },
+    {
+        "id":"13",
+        "title":"Manicure specialist",
+        "region":"Riga",
+        "isRemote": "1",
+        "isFullTime":"1",
+        "date":"01.dec, 2023",
+        "pay":"800-1200",
+        "content":"We are seeking a skilled and passionate manicure specialist to join our team and provide top-quality nail care services to our clients. As a manicure specialist, you will be responsible for delivering professional and personalized manicures that leave our clients feeling pampered and confident."
+    },
+    {
+        "id":"12",
+        "title":"Barber",
+        "region":"Liepāja",
+        "isRemote": "1",
+        "isFullTime":"1",
+        "date":"01.dec, 2023",
+        "pay":"800-1200",
+        "content":"We are in search of a skilled and professional barber to become a valued member of our team. As a barber, you will play a key role in providing top-notch grooming services to our clientele. Your expertise and passion for your craft will help our clients look and feel their best."
+    },
+    {
+        "id":"11",
+        "title":"Tailor",
+        "region":"Valmiera",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"01.dec, 2023",
+        "pay":"800-1200",
+        "content":"We are looking for an experienced and talented tailor to join our team. As a tailor, you will be responsible for creating and altering clothing to meet our clients' unique preferences and needs. Your precision and craftsmanship will play a crucial role in ensuring our clients look and feel their best."
+    },
+    {
+        "id":"10",
+        "title":"Babysitter",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"0",
+        "date":"15.nov, 2023",
+        "pay":"800-1200",
+        "content":"Job Description: We are looking for a caring and responsible babysitter to provide childcare for our family. As a babysitter, you will play a crucial role in ensuring the well-being and safety of our children while we are away."
+    },
+    {
+        "id":"9",
+        "title":"Manicure specialist",
+        "region":"Riga",
+        "isRemote": "1",
+        "isFullTime":"0",
+        "date":"15.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are seeking a skilled and passionate manicure specialist to join our team and provide top-quality nail care services to our clients. As a manicure specialist, you will be responsible for delivering professional and personalized manicures that leave our clients feeling pampered and confident."
+    },
+    {
+        "id":"8",
+        "title":"Barber",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"15.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are in search of a skilled and professional barber to become a valued member of our team. As a barber, you will play a key role in providing top-notch grooming services to our clientele. Your expertise and passion for your craft will help our clients look and feel their best."
+    },
+    {
+        "id":"7",
+        "title":"Manicure specialist",
+        "region":"Rezekne",
+        "isRemote": "1",
+        "isFullTime":"1",
+        "date":"15.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are seeking a skilled and passionate manicure specialist to join our team and provide top-quality nail care services to our clients. As a manicure specialist, you will be responsible for delivering professional and personalized manicures that leave our clients feeling pampered and confident."
+    },
+    {
+        "id":"6",
+        "title":"Fēnu Pārdevējs",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"15.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are looking for an experienced and talented tailor to join our team. As a tailor, you will be responsible for creating and altering clothing to meet our clients' unique preferences and needs. Your precision and craftsmanship will play a crucial role in ensuring our clients look and feel their best."
+    },
+    {
+        "id":"5",
+        "title":"Barber",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"01.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are in search of a skilled and professional barber to become a valued member of our team. As a barber, you will play a key role in providing top-notch grooming services to our clientele. Your expertise and passion for your craft will help our clients look and feel their best."
+    },
+    {
+        "id":"4",
+        "title":"Babysitter",
+        "region":"Ventspils",
+        "isRemote": "1",
+        "isFullTime":"0",
+        "date":"01.nov, 2023",
+        "pay":"800-1200",
+        "content":"Job Description: We are looking for a caring and responsible babysitter to provide childcare for our family. As a babysitter, you will play a crucial role in ensuring the well-being and safety of our children while we are away."
+    },
+    {
+        "id":"3",
+        "title":"Tailor",
+        "region":"Riga",
+        "isRemote": "0",
+        "isFullTime":"1",
+        "date":"01.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are looking for an experienced and talented tailor to join our team. As a tailor, you will be responsible for creating and altering clothing to meet our clients' unique preferences and needs. Your precision and craftsmanship will play a crucial role in ensuring our clients look and feel their best."
+    },
+    {
+        "id":"2",
+        "title":"Manicure specialist",
+        "region":"Riga",
+        "isRemote": "1",
+        "isFullTime":"1",
+        "date":"01.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are seeking a skilled and passionate manicure specialist to join our team and provide top-quality nail care services to our clients. As a manicure specialist, you will be responsible for delivering professional and personalized manicures that leave our clients feeling pampered and confident."
+    },
+    {
+        "id":"1",
+        "title":"Tailor",
+        "region":"Valmiera",
+        "isRemote": "1",
+        "isFullTime":"1",
+        "date":"01.nov, 2023",
+        "pay":"800-1200",
+        "content":"We are looking for an experienced and talented tailor to join our team. As a tailor, you will be responsible for creating and altering clothing to meet our clients' unique preferences and needs. Your precision and craftsmanship will play a crucial role in ensuring our clients look and feel their best."
+    }
+
+]
